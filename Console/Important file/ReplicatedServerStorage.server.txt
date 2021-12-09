@@ -1,0 +1,4 @@
+@Replicated connections = true
+@echo 1@1
+a-b-c tow
+store -d *data; console.s-d
